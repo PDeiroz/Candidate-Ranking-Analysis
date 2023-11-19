@@ -5,8 +5,11 @@ Este projeto consiste em duas partes principais: a primeira parte envolve a fus�
 de um concurso para professores, e a segunda parte envolve a criação de um ranking com base nas notas dos candidatos.
 
 # Tecnologias e Bibliotecas Utilizadas
+
 Python
+
 Pandas
+
 
 # Instalação e Execução
 Para instalar e executar este projeto, siga estas etapas:
