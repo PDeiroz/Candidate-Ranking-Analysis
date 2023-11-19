@@ -1,5 +1,6 @@
 # Candidate-Ranking-Analysis
 Análise de Dados - Concurso Professor
+
 Este projeto consiste em duas partes principais: a primeira parte envolve a fusão de duas planilhas de dados de candidatos 
 de um concurso para professores, e a segunda parte envolve a criação de um ranking com base nas notas dos candidatos.
 
@@ -27,5 +28,6 @@ A segunda parte do projeto envolve a criação de um ranking com base nas notas 
 
 Em seguida, cria uma coluna de ranking com base na nota final, com o candidato de maior pontuação classificado em primeiro lugar. Finalmente, ordena o DataFrame pelo ranking e salva a planilha final em um novo arquivo Excel.
 
-Contribuições
+# Contribuições
+
 Contribuições para este projeto são bem-vindas. Se você tiver alguma sugestão ou melhoria, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
